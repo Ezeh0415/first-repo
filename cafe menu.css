@@ -1,0 +1,604 @@
+*{
+   box-sizing: border-box;
+}
+html{
+ margin:0%;
+ padding:0%;    
+}
+body{
+   font-family: cursive;
+}
+#main{
+   padding:5px;
+   border:solid 3px;
+   width:500px;
+   height:629px;
+   margin-left:23%;
+   background-color: rgb(67, 52, 41);
+   border-radius: 20px;
+}
+/*text first div */
+#h1,#h2,#h3{
+   margin-top:9px;
+   margin-left:20px;
+}
+#h2,#h3{
+   margin-top:-2%;
+
+}
+#h2{
+   font-size: medium;
+   font-weight: bolder;
+   color:white;
+}
+#h1,#h3{
+   color:orange;
+}
+/*border tag */
+#p1{
+   border:solid 1px white;
+   width:1px;
+   height:90px;
+   margin-left:110px;
+   margin-top:-85px;
+   background-color:beige;
+}
+/*cafe head lines 1*/
+#p2{
+   border:solid 1px white;
+   width:45px;
+   margin-left:127px;
+   margin-top:-95px;
+   background-color:beige;
+}
+#p3{
+   border:solid 1px white;
+   width:55px;
+   margin-left:127px;
+   margin-top:5px;
+   background-color:beige;
+
+}
+#p4{
+   border:solid 1px white;
+   width:45px;
+   margin-left:127px;
+   margin-top:5px;
+   background-color:beige;
+}
+/* cafe text it self */
+#h4{
+   font-size: 43px;
+   margin-left:193px;
+   margin-top:-60px;
+   color:beige;
+}
+/*cafe head line 2*/
+#p5{
+   border:solid 1px white;
+   width:45px;
+   margin-left:320px;
+   margin-top:-54px;
+   background-color:beige;
+}
+#p6{
+   border:solid 1px white;
+   width:55px;
+   margin-left:310px;
+   margin-top:5px;
+   background-color:beige;
+
+}
+#p7{
+   border:solid 1px white;
+   width:45px;
+   margin-left:320px;
+   margin-top:5px;
+   background-color:beige;
+}
+/* text under cafe 1*/
+#h5{
+   margin-left:170px;
+   margin-top:-10px;
+   color:orange;
+}
+/* text under resturant */
+#div4{
+   font-size: small;
+}
+#p8{
+   margin-left:180px;
+   color:beige;
+}
+#i1{
+   margin-left:13px;
+   color:beige;
+}
+#p9{
+   margin-left:18px;
+   color:beige;
+}
+#i2{
+   color:orange;
+}
+#i3{
+   color:beige;
+}
+/* line 2*/
+#p10{
+   border:solid 1px white;
+   width:1px;
+   height:90px;
+   margin-left:380px;
+   margin-top:-123px;
+   background-color:beige;
+}
+/* icon 2*/
+#div5{
+   font-size: xx-small;
+   color:white;
+}
+#i4{
+   margin-left:396px;
+}
+#i4,#i5{
+   margin-top:-105px;
+   padding:3px;
+   border-top: solid 2px;
+}
+/* text 2*/
+#h6{
+   font-size: large;
+   margin-top:-85px;
+   padding-left:30px;
+}
+#h8{
+   font-size: x-large;
+   margin-top:-5px;
+   border-bottom: solid white;
+   width:85px;
+   margin-left:390px;
+}
+#h6,#h7,#h8{
+   margin-right:5px;
+   text-align:right;
+}
+#h7{
+   margin-top:-5px;
+   padding-left:25px;
+   font-size: small;
+   font-weight: bolder;
+   color:white;
+}
+#h6,#h8{
+   color:orange;
+}
+/* dimacating border*/
+#p11{
+   border:solid 1px white;
+}
+/*coffe image */
+#img1{
+   margin-top:-10px;
+   width:120px;
+   float: left;
+}
+/* coffee text */
+#div7{
+  font-size: xx-small; 
+  padding-top:20px;
+  padding-left:20px;
+  color:white;
+}
+#h9{
+  font-size: xx-large;
+}
+#p12{
+   padding-left:80px;
+   padding-top:15px;
+}
+#p13{
+   padding-left:30px;
+   padding-top:15px;
+}
+#p14{
+   padding-left:30px;
+   padding-top:15px;
+}
+/* border 2 */
+#p15{
+   border:dotted 1px whitesmoke;
+   width:330px;
+   margin-left:140px;
+}
+/*price list */
+#div8{
+   font-size:small;
+   text-align:center;
+   color:antiquewhite;
+}
+#p17,#p18,#p19{
+   margin-top:-13px;
+}
+#p16,#p17,#p18,#p19{
+   margin-right:205px;
+}
+#p16{
+   margin-right:270px;
+   margin-top:-7px;
+}
+#p17{
+   margin-right:235px;
+}
+#p18{
+   margin-right:240px;
+}
+/*lines in between name and price*/
+#p20{
+   border:solid 1px silver;
+   width:90px;
+   margin-left:213px;
+   margin-top:-95px;
+   background-color:silver;
+}
+#p21{
+   border:solid 1px silver;
+   width:60px;
+   margin-left:245px;
+   margin-top:20px;
+   background-color:silver;
+}
+#p22{
+   border:solid 1px silver;
+   width:65px;
+   margin-left:240px;
+   margin-top:20px;
+   background-color:silver; 
+}
+#p23{
+   border:solid 1px silver;
+   width:30px;
+   margin-left:275px;
+   margin-top:20px;
+   background-color:silver;
+}
+/* price regular*/
+#p24{
+   padding-left:185px;
+   margin-top:-90px;
+   font-size: x-small;
+   color:orange;
+}
+#p25{
+   padding-left:185px;
+   margin-top:-8px;
+   font-size: x-small;
+   color:orange;
+}
+#p26{
+   padding-left:185px;
+   margin-top:-9px;
+   font-size: x-small;
+   color:orange;
+}
+#p27{
+   padding-left:185px;
+   margin-top:-10px;
+   font-size: x-small;
+   color:orange;
+}
+/* price medium */
+#p28{
+   padding-left:300px;
+   margin-top:-98px;
+   font-size: x-small;
+   color:orange;
+}
+#p29{
+   padding-left:300px;
+   margin-top:-8px;
+   font-size: x-small;
+   color:orange;
+}
+#p30{
+   padding-left:300px;
+   margin-top:-9px;
+   font-size: x-small;
+   color:orange;
+}
+#p31{
+   padding-left:300px;
+   margin-top:-10px;
+   font-size: x-small;
+   color:orange;
+}
+/* price large */
+#p32{
+   padding-left:420px;
+   margin-top:-98px;
+   font-size: x-small;
+   color:orange;
+}
+#p33{
+   padding-left:420px;
+   margin-top:-8px;
+   font-size: x-small;
+   color:orange;
+}
+#p34{
+   padding-left:420px;
+   margin-top:-9px;
+   font-size: x-small;
+   color:orange;
+}
+#p35{
+   padding-left:420px;
+   margin-top:-10px;
+   font-size: x-small;
+   color:orange;
+}
+/* border div */
+#p36{
+   border:1px solid white;
+}
+/* bread section */
+#bh1{
+   margin-top:-8px;
+   margin-left:13px;
+   color:antiquewhite;
+}
+#p37{
+   border:dotted 1px white;
+   width:130px;
+   margin-left:7px;
+   margin-top:-5px;
+}
+/*name and price section  for plain bread*/
+#bh2{
+   margin-left:9px;
+   margin-top:-8px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#bp1{
+   border:solid 1px silver;
+   width:30px;
+   margin-left:70px;
+   margin-top:-13px;
+   background-color:silver;
+}
+#bp2{
+   font-size:x-small;
+   margin-left:110px;
+   margin-top:-25px;
+   color:orange;
+}
+#bp3{
+   font-size: xx-small;
+   margin-top:-13px;
+   margin-left:8px;
+   color:silver;
+}
+/* section for chicken bread */
+#bh3{
+   margin-left:9px;
+   margin-top:-11px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#bp4{
+   border:solid 1px silver;
+   width:24px;
+   margin-left:80px;
+   margin-top:-13px;
+   background-color:silver;
+}
+#bp5{
+   font-size:x-small;
+   margin-left:110px;
+   margin-top:-25px;
+   color:orange;
+}
+#bp6{
+   font-size: xx-small;
+   margin-top:-13px;
+   margin-left:8px;
+   color:silver;
+}
+/* section of beef mixed with chi*/
+#bp7{
+   border:solid 1px silver;
+   width:30px;
+   margin-left:70px;
+   margin-top:-13px;
+   background-color:silver;
+}
+/* bread image */
+#bimg1{
+   width:180px;
+   margin-left:152px;
+   margin-top:-190px;
+}
+/* snacks section */
+#sh1{
+   margin-top:-185px;
+   margin-left:360px;
+   color:antiquewhite;
+}
+#s37{
+   border:dotted 1px white;
+   width:110px;
+   margin-left:355px;
+   margin-top:-5px;
+}
+/*name and price section  for snacks*/
+#sh2{
+   margin-left:360px;
+   margin-top:-8px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#sp1{
+   border:solid 1px silver;
+   width:20px;
+   margin-left:425px;
+   margin-top:-13px;
+   background-color:silver;
+}
+#sp2{
+   font-size:x-small;
+   margin-left:450px;
+   margin-top:-25px;
+   color:orange;
+}
+#sp3{
+   font-size: xx-small;
+   margin-top:-13px;
+   margin-left:360px;
+   color:silver;
+}
+/* for chicken stick */
+#sh3{
+   margin-left:360px;
+   margin-top:-11px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#sp4{
+   border:solid 1px silver;
+   width:18px;
+   margin-left:428px;
+   margin-top:-14px;
+   background-color:silver;
+}
+#sp5{
+   font-size:x-small;
+   margin-left:449px;
+   margin-top:-25px;
+   color:orange;
+}
+#sp6{
+   font-size: xx-small;
+   margin-top:-13px;
+   margin-left:360px;
+   color:silver;
+}
+/* section of spicy nuget with chi*/
+#sp7{
+   border:solid 1px silver;
+   width:20px;
+   margin-left:426px;
+   margin-top:-13px;
+   background-color:silver;
+}
+/* demacation div*/
+#borderp{
+   border:solid 1px white;
+}
+/* homemade donuts */
+#himg1{
+   margin-left:7px;
+   width:70px;
+   margin-top:-10px;
+}
+#himg2{
+   width:125px;
+   margin-top:-3px;
+   margin-left:269px;
+}
+/* name and price */
+#hh1{
+   margin-top:-120px;
+   margin-left:140px;
+   color:antiquewhite;
+   font-size: large;
+}
+#hspan{
+   color:orange;
+}
+#chocodiv{
+   font-size: xx-small;
+   color:white;
+   padding-left:260px;
+   margin-top:-23px;
+}
+#hi2{
+  padding-left:15px;
+}
+#h37{
+   border:dotted 1px white;
+   width:110px;
+   margin-left:140px;
+   margin-top:-5px;
+}
+/*name and price section  for donuts*/
+#hh2{
+   margin-left:140px;
+   margin-top:-105px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#hp1{
+   border:solid 1px silver;
+   width:60px;
+   margin-left:195px;
+   margin-top:-13px;
+   background-color:silver;
+}
+#hp2{
+   font-size:x-small;
+   margin-left:265px;
+   margin-top:-25px;
+   color:orange;
+}
+#hp3{
+   font-size: xx-small;
+   margin-top:-13px;
+   margin-left:360px;
+   color:silver;
+}
+/* for chocolate milk */
+#hh3{
+   margin-left:140px;
+   margin-top:-12px;
+   font-size: x-small;
+   color:antiquewhite;
+}
+#hp4{
+   border:solid 1px silver;
+   width:47px;
+   margin-left:210px;
+   margin-top:-14px;
+   background-color:silver;
+}
+#hp5{
+   font-size:x-small;
+   margin-left:265px;
+   margin-top:-25px;
+   color:orange;
+}
+#hp6{
+   font-size: xx-small;
+   margin-top:-11px;
+   margin-left:320px;
+   color:orange;
+}
+#push{
+   padding-top:1px;
+}
+
+/* section of vanila and others mixed with choco*/
+#hp7{
+   border:solid 1px silver;
+   width:47px;
+   margin-left:210px;
+   margin-top:-13px;
+   background-color:silver;
+}
+/* media query */
+@media all and (max-width:767px) {
+   #main{
+      margin-left:1%;
+      border-radius: 20px;
+   }
+}
